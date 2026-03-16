@@ -13,6 +13,7 @@ Voluntarily Provided Information: We do not collect the text of your conversatio
 4)Account Information: If you create an account, we may store your email address to manage your subscription and preferences (optional).
 
 AI and Data Processing
+
 5)Generative AI Disclosure: Rida AI uses advanced artificial intelligence to generate responses. Please be aware that interactions are processed by AI models.
 
 6)Third-Party AI Providers: To generate responses, your prompts (stripped of personal identifiers where possible) may be processed by third-party AI providers (such as OpenAI or Anthropic). These providers do not have permission to use your data to train their global models.
@@ -20,6 +21,7 @@ AI and Data Processing
 7)Verified Knowledge Base: Rida AI utilizes a dedicated database of verified Shia information to ensure accuracy and religious sensitivity.
 
 Data Retention and Deletion
+
 8)Chat History: We do not store your chat history on our servers; all conversations are stored locally on your device so you can continue conversations across sessions without your data leaving your phone.
 
 9)User Control: You can delete individual chats or your entire account at any time within the app settings. Once deleted, your data is purged immediately.
